@@ -1,11 +1,11 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [HomeController.cs](./CS/Sample/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/Sample/Controllers/HomeController.vb))
-* [Person.cs](./CS/Sample/Models/Person.cs) (VB: [Person.vb](./VB/Sample/Models/Person.vb))
-* [PersonsList.cs](./CS/Sample/Models/PersonsList.cs) (VB: [PersonsList.vb](./VB/Sample/Models/PersonsList.vb))
-* **[GridViewEditingPartial.cshtml](./CS/Sample/Views/Home/GridViewEditingPartial.cshtml)**
-* [Index.cshtml](./CS/Sample/Views/Home/Index.cshtml)
+* [HomeController.cs](./CS/e4643//Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/e4643VB/Controllers/HomeController.vb))
+* [Person.cs](./CS/e4643/Models/Person.cs) (VB: [Person.vb](./VB/e4643VB/Models/Person.vb))
+* [PersonList.cs](./CS/e4643/Models/PersonList.cs) (VB: [PersonList.vb](./VB/e4643VB/Models/PersonList.vb))
+* **[_GridViewPartial.cshtml](./CS/e4643/Views/Home/GridViewPartial.cshtml)**
+* [Index.cshtml](./CS/e4643/Views/Home/Index.cshtml)
 <!-- default file list end -->
 # GridView - How to implement row copy / clone functionality
 <!-- run online -->

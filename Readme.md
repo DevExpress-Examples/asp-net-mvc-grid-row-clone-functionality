@@ -29,7 +29,7 @@ It illustrates how to implement row copy / clone functionality similar to the AS
 - Handle the client-side <a href="http://documentation.devexpress.com/#AspNet/DevExpressWebASPxGridViewScriptsASPxClientGridView_BeginCallbacktopic"><u>ASPxClientGridView.BeginCallback</u></a> event. If the custom callback is currently processing (<strong>e.command</strong> equals  "CUSTOMCALLBACK"), populate the e.customArgs item with the stored keyValue. See the <a href="http://documentation.devexpress.com/#AspNet/CustomDocument9941"><u>Passing Values to Controller Action Through Callbacks</u></a> help article to learn more on how to deal with this option;<br />
 - Handle <strong>GridViewSettings.CustomActionRouteValues.Action</strong>. Pass the stored keyValue to the PartialView via the ViewData;</p><p>In the PartialView:<br />
 - Handle the <a href="http://documentation.devexpress.com/#AspNet/DevExpressWebMvcGridViewSettings_BeforeGetCallbackResulttopic"><u>GridViewSettings.BeforeGetCallbackResult</u></a> event. If there is an item in the ViewData, start editing a new row via the <a href="http://documentation.devexpress.com/#AspNet/DevExpressWebASPxGridViewASPxGridView_AddNewRowtopic"><u>MVCxGridView.AddNewRow</u></a> method;<br />
-- Handle the <a href="http://documentation.devexpress.com/#AspNet/DevExpressWebMvcGridViewSettings_InitNewRowtopic"><u>GridViewSettings.InitNewRow</u></a> event. If there is an item in the ViewData, copy row values from the original row to the new one.</p>
+- Handle the <a href="https://docs.devexpress.com/AspNetMvc/DevExpress.Web.Mvc.GridViewSettings.InitNewRow"><u>GridViewSettings.InitNewRow</u></a> event. If there is an item in the ViewData, copy row values from the original row to the new one.</p>
 
 <br/>
 

@@ -11,7 +11,7 @@ This example demonstrates how to create a custom **Copy** button that allows use
 
 Follow the steps below to implement row clone functionality in the grid:
 
-1. Create a custom **Copy** command button, handle its client-side [CustomButtonClick](https://docs.devexpress.com/AspNet/js-ASPxClientGridView.CustomButtonClick) event, and do the following in the handler:
+1. Create a custom **Copy** command button, handle the grid's client-side [CustomButtonClick](https://docs.devexpress.com/AspNet/js-ASPxClientGridView.CustomButtonClick) event, and do the following in the handler:
    * Pass the clicked row's visible index as a parameter to the grid's [GetRowKey](https://docs.devexpress.com/AspNet/js-ASPxClientGridView.GetRowKey(visibleIndex)) method to get the row's key value.
    * Call the grid's [PerformCallback](https://docs.devexpress.com/AspNet/js-ASPxClientGridView.PerformCallback(args)) method to send a callback to the server.
 

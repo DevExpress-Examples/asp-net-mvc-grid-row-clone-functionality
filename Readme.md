@@ -9,7 +9,7 @@ This example demonstrates how to create a custom **Copy** button that allows use
 
 ## Overview
 
-Follow the steps below to implement row clone functionality in the grid:
+Follow the steps below to implement the row clone functionality in the grid:
 
 1. Create a custom **Copy** command button, handle the grid's client-side [CustomButtonClick](https://docs.devexpress.com/AspNet/js-ASPxClientGridView.CustomButtonClick) event, and do the following in the handler:
    * Pass the clicked row's visible index as a parameter to the grid's [GetRowKey](https://docs.devexpress.com/AspNet/js-ASPxClientGridView.GetRowKey(visibleIndex)) method to get the row's key value.

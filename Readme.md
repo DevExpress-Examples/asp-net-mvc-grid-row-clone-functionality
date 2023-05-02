@@ -14,7 +14,7 @@
 <!-- default file list end -->
 # GridView - How to implement row copy / clone functionality
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4643/)**
+**[[Run Online]](https://codecentral.devexpress.com/128550388/)**
 <!-- run online end -->
 
 

@@ -5,7 +5,7 @@
 <!-- default badges end -->
 # Grid View for ASP.NET MVC - How to implement row clone functionality
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4643/)**
+**[[Run Online]](https://codecentral.devexpress.com/128550388/)**
 <!-- run online end -->
 
 This example demonstrates how to create a custom **Copy** button that allows users to clone a grid row.

@@ -33,7 +33,7 @@ Follow the steps below to implement the row clone functionality in the grid:
     }
     ```
 
-2. Handle the grid's client-side [BeginCallback](https://docs.devexpress.com/AspNet/js-ASPxClientGridView.BeginCallback)event and assign the row's key value to the `e.customArgs` argument property.
+2. Handle the grid's client-side [BeginCallback](https://docs.devexpress.com/AspNet/js-ASPxClientGridView.BeginCallback) event and assign the row's key value to the `e.customArgs` argument property.
 
     ```js
     function OnBeginCallback(s, e) {

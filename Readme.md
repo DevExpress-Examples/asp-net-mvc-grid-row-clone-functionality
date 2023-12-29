@@ -13,9 +13,6 @@
 * [Index.cshtml](./CS/Sample/Views/Home/Index.cshtml)
 <!-- default file list end -->
 # GridView - How to implement row copy / clone functionality
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128550388/)**
-<!-- run online end -->
 
 
 <p>This example is based on the <a href="https://www.devexpress.com/Support/Center/p/E3983">E3983: GridView - How to edit in memory data source</a> example.<br />

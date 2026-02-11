@@ -95,7 +95,7 @@ Follow the steps below to implement the row clone functionality in the grid:
 * [Grid Columns - Custom Command Buttons](https://demos.devexpress.com/ASPxGridViewDemos/Columns/CommandColumnCustomButtons.aspx)
 * [Grid View for ASP.NET Web Forms - How to implement clone functionality in batch edit mode](https://github.com/DevExpress-Examples/asp-net-web-forms-gridview-clone-functionality-in-batch-edit-mode)
 <!-- feedback -->
-## Does This Example Address Your Development Requirements/Objectives?
+## Does this example address your development requirements/objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-mvc-grid-row-clone-functionality&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-mvc-grid-row-clone-functionality&~~~was_helpful=no)
 
